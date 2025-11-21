@@ -1,2 +1,2 @@
 # Convolutionary-Neural-Network
-Neural Network Analysis for Image dataset
+This repository is for Neural Network Analysis for Image dataset.
